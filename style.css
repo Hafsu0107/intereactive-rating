@@ -25,7 +25,7 @@ body {
 .hidden {
   display: none;
 }
-.card {
+.main-card {
   background-color: var(--dark-blue);
   border-radius: 1rem;
   width: 350px;
