@@ -7,6 +7,7 @@
   --dark-blue: hsl(213, 19%, 18%);
   --very-dark-blue: hsl(216, 12%, 8%);
   --orange: hsl(25, 97%, 53%);
+  --secondary: hsl(213deg, 20%, 22%);
 }
 * {
   margin: 0;
@@ -90,7 +91,7 @@ body {
 .thank-section {
   text-align: center;
 }
-.chip {
+.clip {
   background-color: var(--secondary);
   width: fit-content;
   margin: 1rem auto;
